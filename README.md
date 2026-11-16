@@ -41,6 +41,25 @@ Soy desarrollador de software con formación en Ingeniería en Informática en D
 
 ---
 
+## Contacto
+
+Conecta conmigo a través de mis redes profesionales.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pablo-andres-gamboa-huechucoy-88b728357/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:pgamboa812@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/pablo-gamboa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
   Gracias por visitar mi perfil.
 </p>
+
