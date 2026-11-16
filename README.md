@@ -39,10 +39,6 @@ Soy desarrollador de software con formación en Ingeniería en Informática en D
 - **Agente inteligente de RRHH:** Asistente basado en LLM, RAG y LangChain.
 - **Big Data:** Diseño de una solución para la detección de patrones de fraudes digitales en Chile.
 
-##  Actividad en GitHub
-
-![Actividad](https://github-readme-stats.vercel.app/api?username=pablo-gamboa&show_icons=true&theme=tokyonight)
-
 ---
 
 <p align="center">
